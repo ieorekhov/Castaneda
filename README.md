@@ -1,1 +1,1 @@
-![alt-text](berserk.jpg)
+![alt-text](./berserk.jpg)
