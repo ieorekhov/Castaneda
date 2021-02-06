@@ -1,3 +1,19 @@
+Four moods of stalking:
+1. ruthlessness should not be harshness
+2. Cunning (хитрость, пронырливость, искусность)
+should not be cruelty
+
+3. patience should not be negligence
+4. sweetness should not be foolishness.
+
+"Sorcerers use the four moods of stalking as guides," he continued. "These are four different
+frames of mind, four different brands of intensity that sorcerers can use to induce their
+assemblage points to move to specific positions."
+He taught him that these four steps had to be practiced and perfected until they were so smooth
+they were unnoticeable. 
+
+
+
 The idea of death therefore is of monumental importance in the life of a sorcerer. I have shown you innumerable things about death to convince you that the knowledge of your impending and avoidable end is what gives us sobriety.
 > impending - предстоящий, грозящий
 
