@@ -1,1 +1,1 @@
-![alt-text](Pictures/berserk.jpg)
+![alt-text](berserk.jpg)
