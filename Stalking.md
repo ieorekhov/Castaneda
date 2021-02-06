@@ -10,4 +10,8 @@ That realazation gives sorcerers the courage to be patient and yet take action, 
 Sorcerers stalk themselves in order to break the power of their obsessions. There are **many** ways of stalking oneself. If you don't want to use the idea of your death, use the poems you read me to stalk yourself.
 > obsession - одержимость, навязчивая идея
 
-The spirit could not possibly have cared about my despair. There were too many of us — men with our own petty private hells, born of our stupidity — for the spirit to pay attention.
+The spirit could not possibly have cared about my despair. There were too many of us — men with our own petty private hells, born of our stupidity — for the spirit to pay attention.\
+
+For a sorcerer, ruthlessness is not cruelty. Ruthlessness is the opposite of self-pity or self-importance. Ruthlessness is sobriety.
+>sobriety - трезвость
+
