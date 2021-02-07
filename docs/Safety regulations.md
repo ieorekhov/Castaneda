@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: stalking  
+title: Safety regulations  
 nav_order: 5  
 parent: main page    
 ---
