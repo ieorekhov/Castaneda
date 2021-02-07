@@ -1,3 +1,10 @@
+---
+layout: default  
+title: stalking  
+nav_order: 1  
+parent: main page    
+---  
+
 Four moods of stalking:
 1. ruthlessness should not be harshness
 2. Cunning (хитрость, пронырливость, искусность)
