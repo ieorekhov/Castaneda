@@ -1,3 +1,10 @@
+---
+layout: default  
+title: stalking  
+nav_order: 5  
+parent: main page    
+---
+
 As we walked, don Juan told me that he wanted to warn me once again that it is very easy in the path of knowledge to get lost in intricacies and morbidity.
 He said that seers are up against great enemies that can destroy their purpose, muddle their aims, and make them weak; enemies created by the warriors’ path itself
 together with the sense of indolence, laziness, and self-importance that are integral parts of the daily world. He remarked that the mistakes the ancient seers made as
